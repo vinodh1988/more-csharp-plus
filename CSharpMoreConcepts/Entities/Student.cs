@@ -13,7 +13,11 @@ namespace CSharpMoreConcepts.Entities
 
         public Single Percentage { get; set; }
 
-       
+
+        public override string ToString() {
+            return new { Sno = Sno, Name = Name, City = City, Percentage = Percentage }.ToString();
+          }
+        }
 
     }
-}
+
