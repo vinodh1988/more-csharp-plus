@@ -23,7 +23,7 @@ namespace CSharpMoreConcepts.LINQ
 
             var result = from s in list
                          where s.Percentage >= 90
-                         select s;
+                         select new { Name = s.Name, City =s.City};
 
             foreach(var x in result)
                 Console.WriteLine("Name is {0}, City is {1} ", x.Name,x.City);
