@@ -19,10 +19,10 @@ namespace CSharpMoreConcepts.LINQ
             {
                 Console.WriteLine(student);
             }
-
+            int recno = 0;
             var students = from s in StudentData.list
                            where s.Name.Length > 5 && s.Percentage > 60
-                           select new {LuckyNumber= new Random().Next(), Name = s.Name.ToUpper()+" is a good human being"};
+                           select new {LuckyNumber= ++recno, Name = s.Name.ToUpper()+" is a good human being"};
 
             Console.WriteLine("========================================");
             foreach (var student in students) {
