@@ -1,0 +1,14 @@
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.csproj.AssemblyReference.cache
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.AssemblyInfoInputs.cache
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.AssemblyInfo.cs
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.csproj.CoreCompileInputs.cache
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CSharpMoreConcepts.exe
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CSharpMoreConcepts.deps.json
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CSharpMoreConcepts.runtimeconfig.json
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CSharpMoreConcepts.runtimeconfig.dev.json
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CSharpMoreConcepts.dll
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CSharpMoreConcepts.pdb
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.dll
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.pdb
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.genruntimeconfig.cache
