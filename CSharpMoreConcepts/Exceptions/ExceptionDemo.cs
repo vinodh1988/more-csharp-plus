@@ -34,7 +34,8 @@ namespace CSharpMoreConcepts.Exceptions
             }
             catch (RecordAlreadyExistsException e)
             {
-                Console.WriteLine(e.Message + " " + e.StackTrace);
+                Console.WriteLine(e);
+                //Console.WriteLine(e.Message + " " + e.StackTrace);
             }
             catch (Exception e)
             {
