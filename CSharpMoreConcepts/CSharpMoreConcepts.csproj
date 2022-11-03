@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CSharpMoreConcepts.RegularExpressions.RegularExpressionDemo</StartupObject>
+    <StartupObject>CSharpMoreConcepts.FileHandling.FileReaderDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
