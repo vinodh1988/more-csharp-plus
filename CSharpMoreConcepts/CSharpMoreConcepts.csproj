@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CSharpMoreConcepts.DateandTime.DateDemo</StartupObject>
+    <StartupObject>CSharpMoreConcepts.RegularExpressions.RegularExpressionDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
