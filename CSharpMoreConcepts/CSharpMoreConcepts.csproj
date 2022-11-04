@@ -3,7 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CSharpMoreConcepts.FileHandling.DirectoryDemo</StartupObject>
+    <StartupObject>CSharpMoreConcepts.CSV.CSVReader</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="30.0.0" />
+  </ItemGroup>
 
 </Project>

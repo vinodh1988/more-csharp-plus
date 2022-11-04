@@ -12,3 +12,5 @@ D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CShar
 D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.dll
 D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.pdb
 D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.genruntimeconfig.cache
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\microsoft\CSharpMoreConcepts\CSharpMoreConcepts\obj\Debug\netcoreapp3.1\CSharpMoreConcepts.csproj.CopyComplete
