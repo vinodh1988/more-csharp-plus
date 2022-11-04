@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CSharpMoreConcepts.FileHandling.StudentDeserialize</StartupObject>
+    <StartupObject>CSharpMoreConcepts.FileHandling.DirectoryDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
