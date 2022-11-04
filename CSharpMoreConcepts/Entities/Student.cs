@@ -4,6 +4,7 @@ using System.Text;
 
 namespace CSharpMoreConcepts.Entities
 {
+    [Serializable]
     internal class Student
     {
         public int Sno { get; set; }
