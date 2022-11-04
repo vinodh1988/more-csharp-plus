@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GwPAm0qSAbODs5/BjVT6+7Dmo27Le3Y1nS2j/w68R0mKJrXVg6D6w3xg97r0IYzI6RNGqkxavy8rpvNkhJZXSg==",
+  "dgSpecHash": "3nYpCsZeYDALTpGGuI5QbbSDtSZS+V/t+5RCO0YX4FZXzvuaiO8nQMQiONKkfP8JxwZ4fgIpD5A/pEVjhJkRxA==",
   "success": true,
   "projectFilePath": "D:\\microsoft\\CSharpMoreConcepts\\CSharpMoreConcepts\\CSharpMoreConcepts.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\vinodh\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\vinodh\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\vinodh\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",

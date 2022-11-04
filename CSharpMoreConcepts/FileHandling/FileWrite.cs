@@ -9,13 +9,17 @@ namespace CSharpMoreConcepts.FileHandling
     {
         static void Main(string[] n) {
             StreamWriter stream = new StreamWriter("D:\\myfiles\\sample.txt");
-            string sample = "";
-            while (!sample.Equals("End")) { 
-              sample = Console.ReadLine();
-                stream.WriteLine(sample);
+            using (stream)
+            {
+                string sample = "";
+                while (!sample.Equals("End"))
+                {
+                    sample = Console.ReadLine();
+                    stream.WriteLine(sample);
+                }
             }
-            stream.Flush();
-            stream.Close();
+           // stream.Flush();
+            //stream.Close();
         }
     }
 }
